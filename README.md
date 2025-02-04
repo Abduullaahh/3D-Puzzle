@@ -66,31 +66,25 @@ To set up and play the game on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/3d-rubiks-cube-game.git
+   ```
 
 Install the dependencies:
-Copy
-Edit
-cd 3d-rubiks-cube-game
-npm install
+   ```bash
+   cd 3d-rubiks-cube-game
+   npm install
+   ```
 Run the development server:
 
-bash
-Copy
-Edit
-npm run start
+   ```bash
+   npm run start
+   ```
 Open the app in your browser at http://localhost:3000.
 
 📈 Screenshots
 Here’s a sneak peek of the game interface:
 
 🎮 Play the Game
-Click here to play the game online
-
-📢 Contributing
-If you’d like to contribute to this project, feel free to fork it and create a pull request with your improvements. Please refer to the contributing guidelines for more details.
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Click here to play the game online ()
 
 🚀 Enjoy solving the cube!
 We hope you enjoy playing and solving the Rubik’s Cube in 3D! Let us know if you have any feedback or suggestions for new features.
