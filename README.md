@@ -68,12 +68,12 @@ To set up and play the game on your local machine:
    git clone https://github.com/your-username/3d-rubiks-cube-game.git
    ```
 
-Install the dependencies:
+2. Install the dependencies:
    ```bash
    cd 3d-rubiks-cube-game
    npm install
    ```
-Run the development server:
+3. Run the development server:
 
    ```bash
    npm run start
