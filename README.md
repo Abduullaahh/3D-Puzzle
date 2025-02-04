@@ -65,8 +65,9 @@ To set up and play the game on your local machine:
 
 1. Clone the repository:
    ```bash
-   Install the dependencies:
-bash
+   git clone https://github.com/your-username/3d-rubiks-cube-game.git
+
+Install the dependencies:
 Copy
 Edit
 cd 3d-rubiks-cube-game
