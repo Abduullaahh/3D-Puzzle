@@ -83,8 +83,11 @@ Open the app in your browser at http://localhost:3000.
 📈 Screenshots
 Here’s a sneak peek of the game interface:
 
+![image](https://github.com/user-attachments/assets/8749132d-f025-4ff5-b62c-4d7b5cf46c98)
+![image](https://github.com/user-attachments/assets/912fc796-b39c-49b3-aaac-83c8d9960fe2)
+
 🎮 Play the Game
-Click here to play the game online ()
+Click here to play the game online
 
 🚀 Enjoy solving the cube!
 We hope you enjoy playing and solving the Rubik’s Cube in 3D! Let us know if you have any feedback or suggestions for new features.
